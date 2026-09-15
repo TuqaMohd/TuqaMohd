@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB6C1&height=200&section=header&text=Tuqa+AlHosni&fontSize=50&fontColor=FFB6C1)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=FFB6C1&center=true&vCenter=true&width=750&lines=Welcome+to+my+profile%21;I'm+Tuqa+AlHosni;Cybersecurity+girly;frontend+development;I+make+your+websites+pretty+%26+secure+%3B)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=FFB6C1&center=true&vCenter=true&width=750&lines=Welcome+to+my+profile%21;I'm+Tuqa+AlHosni;I+make+your+websites+pretty+%26+secure" alt="Typing SVG" />
 </a>
 
 </div>

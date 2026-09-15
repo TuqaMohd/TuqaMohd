@@ -9,9 +9,10 @@
 </div>
 
 ### <img src="https://api.iconify.design/mdi:shield-lock-outline.svg?color=%23FFB6C1" width="20" /> About Me
-- Majoring in **Cybersecurity**
+- **Cybersecurity** girly!
 - Passionate about **Frontend Development & UI Design**
 - Interested in web security, clean interfaces, and building things that are both safe *and* beautiful
+- You can count on me for a pretty, fun, and secure website!
 
 ### <img src="https://api.iconify.design/mdi:tools.svg?color=%23FFB6C1" width="20" /> Tech & Tools
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB6C1&height=200&section=header&text=Tuqa+AlHosni&fontSize=45&fontColor=FFB6C1&desc=Cybersecurity+%7C+Frontend+%26+UI&descColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB6C1&height=200&section=header&text=Tuqa+AlHosni&fontSize=50&fontColor=FFB6C1)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=FFB6C1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Tuqa;Cybersecurity+Major;Passionate+about+Frontend+%26+UI;Turning+ideas+into+secure%2C+beautiful+interfaces" alt="Typing SVG" />
@@ -17,15 +17,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,js,ts,html,css,tailwind,react,vite,docker,blender&theme=dark" />
-</div>
-
-<div align="center">
-
-  <a href="https://portswigger.net/burp">
-    <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logoColor=FFB6C1" height="45" />
-  </a>
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FFB6C1" height="45" />
-
 </div>
 
 ---

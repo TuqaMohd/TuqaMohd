@@ -18,6 +18,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,js,ts,html,css,tailwind,react,vite,docker,blender&theme=dark" />
 </div>
+<br>
 
 <div align="center">
   <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="600" />

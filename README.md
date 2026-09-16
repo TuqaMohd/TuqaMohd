@@ -9,10 +9,9 @@
 </div>
 
 ### <img src="https://api.iconify.design/mdi:shield-lock-outline.svg?color=%23FFB6C1" width="20" /> About Me
-- **Cybersecurity** girly
+- Majoring in **Cybersecurity**
 - Passionate about **Frontend Development & UI Design**
 - Interested in web security, clean interfaces, and building things that are both safe *and* beautiful
-- You can count on me for a pretty, fun, and secure website!
 
 ### <img src="https://api.iconify.design/mdi:tools.svg?color=%23FFB6C1" width="20" /> Tech & Tools
 
@@ -20,7 +19,9 @@
   <img src="https://skillicons.dev/icons?i=nextjs,js,ts,html,css,tailwind,react,vite,docker,blender&theme=dark" />
 </div>
 
----
+<div align="center">
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="600" />
+</div>
 
 <div align="center">
 

@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=FFB6C1&center=true&vCenter=true&width=750&lines=Welcome+to+my+profile%21;I'm+Tuqa+AlHosni;I+make+your+websites+pretty+%26+secure" alt="Typing SVG" />
 </a>
 
-</div>
+</div> 
 
 ### <img src="https://api.iconify.design/mdi:shield-lock-outline.svg?color=%23FFB6C1" width="20" /> About Me
 - Passionate about **Frontend Development & UI Design**
